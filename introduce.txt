@@ -1,0 +1,4 @@
+1. Generate xdlrc files in ISE command
+2.put xdlrc file in model project,run hex_route_model and generate files(graph outdegree flag)
+3.copy files to path project and run hex_route_path
+4.Process the result in xdl format
